@@ -1,6 +1,6 @@
 ![Header](./dhruvrajBanner.png)
-<h1 align="center">Hi 👋, I'm Dhruvraj</h1>
-<h3 align="center">A passionate software developer from India based in Toronto.</h3>
+<h1 align="left">Hi 👋, I'm Dhruvraj</h1>
+<h3 align="left">A passionate software developer from India based in Toronto.</h3>
 <br>
 
 
