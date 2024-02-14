@@ -25,5 +25,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,js,py,aws,vscode,idea,git,github,gitlab,bootstrap,tailwind,webflow,wordpress,react,spring,hibernate,express,nodejs,mongodb,mysql,firebase,postgres,vercel,netlify,figma,xd,latex" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvrajsinhrathod&" alt="dhruvrajsinhrathod" /></p>
