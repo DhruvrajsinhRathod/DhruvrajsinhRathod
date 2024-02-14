@@ -11,7 +11,3 @@
 <a href="https://www.linkedin.com/in/dhrvrj/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<h3 align="left">My Contributions:</h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
