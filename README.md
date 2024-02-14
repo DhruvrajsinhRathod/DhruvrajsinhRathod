@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,js,py,aws,au,ai,ps,pr,xd,vscode,idea,git,github,gitlab,bootstrap,tailwind,webflow,wordpress,babel,bash,angular,express,figma,firebase,hibernate,latex,mongodb,mysql,netlify,nodejs,php,postgres,react,spring,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,js,py,aws,figma,xd,vscode,idea,git,github,gitlab,bootstrap,tailwind,webflow,wordpress,babel,bash,express,firebase,hibernate,latex,mongodb,mysql,netlify,nodejs,php,postgres,react,spring,vercel,netlify" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvrajsinhrathod&" alt="dhruvrajsinhrathod" /></p>
