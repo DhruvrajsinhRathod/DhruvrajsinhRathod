@@ -24,6 +24,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js,ts,cs,py,html,css,c,cpp" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvrajsinhrathod&" alt="dhruvrajsinhrathod" /></p>
